@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078176633825",
+    "firebase_url": "https://currency-conversion-rate.firebaseio.com",
+    "project_id": "currency-conversion-rate",
+    "storage_bucket": "currency-conversion-rate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078176633825:android:bc9b6e9b7b4e26ecc478a0",
+        "android_client_info": {
+          "package_name": "com.maddlytech.exchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078176633825-2363ccgdsipvhchvca088dg0n7mj2m6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_UMko4EtdzSphDaN3HF9EtBVC7DKdlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078176633825-2363ccgdsipvhchvca088dg0n7mj2m6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
